@@ -53,10 +53,9 @@
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine Learning-DC0032?style=flat-square&logo=googlecloudcomposer&logoColor=white"/>
   <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep Learning-46a2f1?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/-NLP-430098?style=flat-square&logo=naver&logoColor=white" />
-  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer Vision-428813?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Large Language Models" src="https://img.shields.io/badge/-Large Language Models-428813?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Time-Series Forecasting" src="https://img.shields.io/badge/-Time Series Forecasting-B7178C?style=flat-square&logo=tvtime&logoColor=white" />
-  <img alt="Data Vizualization" src="https://img.shields.io/badge/-Data Vizualization-FFFC00?style=flat-square&logo=taichigraphics&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Data Visualization" src="https://img.shields.io/badge/-Data Visualization-FFFC00?style=flat-square&logo=taichigraphics&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/-Power BI-4285F4?style=flat-square&logo=powerbi&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-F5C300?style=flat-square&logo=keras&logoColor=white" />
@@ -64,10 +63,9 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FB542B?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-EC4A3F?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-F9A03C?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-ea2845?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-8C4FFF?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Boootstrap-CB3837?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Excel-F7B93E?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="Microsoft Powerpoint" src="https://img.shields.io/badge/-Microsoft Powerpoint-13aa52?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/-Microsoft Word-43853d?style=flat-square&logo=microsoft-word&logoColor=white" />

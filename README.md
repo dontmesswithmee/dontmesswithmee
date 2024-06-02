@@ -2,23 +2,23 @@
   <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Rinnegan.gif" alt="👋 Hi there! I'm Siddharth Mathur" title="👋 Hi there! I'm Siddharth Mathur" width ="600" height="180" />
 </div> -->
 <div id="header" align="center">
-  <a href = "https://leetcode.com/onehotencoder_97/">
-    <img src="https://github.com/Siddikulus/Siddikulus/blob/main/50_Days.gif" alt="50 Days Badge 2023" title="Leetcode 50 Days Badge 2023" width = "100" height = "100"/>
+  <a href = "https://leetcode.com/u/rlxcnz/">
+    <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/50_Days.gif" alt="50 Days Badge 2023" title="Leetcode 50 Days Badge 2023" width = "100" height = "100"/>
   </a>
-    <a href = "https://leetcode.com/onehotencoder_97/">
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/50_Days_2024.gif" alt="50 Days Badge 2024" title="Leetcode 50 Days Badge 2024" width = "100" height = "100"/>
+    <a href = "https://leetcode.com/u/rlxcnz/">
+  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/50_Days_2024.gif" alt="50 Days Badge 2024" title="Leetcode 50 Days Badge 2024" width = "100" height = "100"/>
   </a>
-   <a href = "https://leetcode.com/onehotencoder_97/">
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/100_days.gif" alt="100 Days Badge 2024" title="Leetcode 100 Days Badge 2024" width = "100" height = "100"/>
+   <a href = "https://leetcode.com/u/rlxcnz/">
+  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/100_days.gif" alt="100 Days Badge 2024" title="Leetcode 100 Days Badge 2024" width = "100" height = "100"/>
   </a>
-  <a href = "https://leetcode.com/onehotencoder_97/">
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Jan_DC.gif" alt="January 24 Daily Challenge" title="Leetcode January Badge" width = "100" height = "100"/>
+  <a href = "https://leetcode.com/u/rlxcnz/">
+  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/Jan_DC.gif" alt="January 24 Daily Challenge" title="Leetcode January Badge" width = "100" height = "100"/>
   </a>
-  <a href = "https://leetcode.com/onehotencoder_97/">
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Feb_DC.gif" alt="February 24 Daily Challenge" title="Leetcode February Badge" width = "100" height = "100"/>
+  <a href = "https://leetcode.com/u/rlxcnz/">
+  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/Feb_DC.gif" alt="February 24 Daily Challenge" title="Leetcode February Badge" width = "100" height = "100"/>
   </a>
-  <a href = "https://leetcode.com/onehotencoder_97/">
-  <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Mar_DC.gif" alt="March 24 Daily Challenge" title="Leetcode March Badge" width = "100" height = "100"/>
+  <a href = "https://leetcode.com/u/rlxcnz/">
+  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/Mar_DC.gif" alt="March 24 Daily Challenge" title="Leetcode March Badge" width = "100" height = "100"/>
   </a>
 </div>
 
@@ -26,40 +26,23 @@
 
 <div id="header" align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=700&color=EC4A3F&center=true&vCenter=true&random=false&width=434&lines=Data+Scientist;Python+Developer;Naruto+Fanatic)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=700&color=EC4A3F&center=true&vCenter=true&random=false&width=434&lines=Data+Scientist;Python+Developer;Researcher)](https://git.io/typing-svg)
   
 </div>
 
 <br>
 <div id="header" align="center">
   
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fonehotencoder_97&logo=leetcode&logoColor=yellow)](https://leetcode.com/onehotencoder_97/) &nbsp;
-[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/10614373?color=orange&label=reputation&logo=stackoverflow&style=social)](https://stackoverflow.com/users/10614373 "Stack Overflow Reputation")
-[![GitHub followers](https://img.shields.io/github/followers/Siddikulus?label=Follow&style=social)](https://github.com/Siddikulus/?tab=follow) &nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/siddharth-mathur-24b6a2152/)](https://www.linkedin.com/in/siddharth-mathur-24b6a2152/) &nbsp;
-[![IEEE Profile](https://img.shields.io/badge/-IEEE-00629B?style=social&logo=ieee&logoColor=blue&link=https://ieeexplore.ieee.org/author/37089563053)](https://ieeexplore.ieee.org/author/37089563053) &nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/Trollsorous?style=social)](https://twitter.com/intent/follow?screen_name=Trollsorous) &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-siddharthmathur20@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:siddharthmathur20@gmail.com)](mailto:email@anuragsingh.dev) &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Siddikulus&label=Profile%20views&color=0e75b6&style=flat)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frlxcnz&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/rlxcnz/) &nbsp;
+[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/25367372?color=orange&label=reputation&logo=stackoverflow&style=social)](https://stackoverflow.com/users/25367372 "Stack Overflow Reputation")
+[![GitHub followers](https://img.shields.io/github/followers/dontmesswithmee?label=Follow&style=social)](https://github.com/dontmesswithmee/?tab=follow) &nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahul-chauhan-8566b4147/)](https://www.linkedin.com/in/rahul-chauhan-8566b4147/) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-rach3246@colorado.edu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rach3246@colorado.edu)](mailto:rach3246@colorado.edu) &nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=dontmesswithmee&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--[![Stack Overflow](https://stackoverflow-badge.vercel.app/?userID=10614373)](https://stackoverflow.com/users/10614373/trollsors) &nbsp;-->
 
 </div>
-
-<!--
-**Siddikulus/Siddikulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br>
 
 ## 📚 Skillset
@@ -101,20 +84,22 @@ Here are some ideas to get you started:
 class DataScientist:
 
     def __init__(self):
-        self.name = "Siddharth Mathur"
+        self.name = "Rahul Chauhan"
         self.role = "Data Scientist"
         self.language_spoken = ["en_US", "hi"]
 
     def about_me(self):
         print('''
-            💼 Data Scientist with over four years of hands-on experience leveraging Python to architect and
+            💼 Data Scientist with over two years of hands-on experience leveraging Python to architect and
                engineer sophisticated data-driven solutions.
-            🎓 Currently a graduate student with bold ideas studying Data Science at the University of Colorado, Boulder.
-            🔭 Also into research. I focus my research efforts on enhancing safety and healthcare through the
-               application of computer vision and deep learning technologies.
-            💬 Come brainstorm with me over tech, algorithms, career, movies, games, anime and music.
+            🎓 Currently a data engineer at Strategix Vantage; Graduated from University of Colorado Boulder
+                with a Master's degree in Data Science.
+            🔭 Passionate about crafting impactful AI-driven solutions. I specialize in natural language processing, large language models,
+                and deep learning to revolutionize business insights and drive decision-making.
+            💬 Let's connect and geek out over tech innovations, cutting-edge algorithms, career growth, epic movies, immersive games, captivating anime, and groovy music.
             ⚡ "I'm not gonna give up. Once I've found something I want to do, I do it. That's my ninja way!" - Naruto Uzumaki
             ''')
+
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")

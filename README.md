@@ -1,26 +1,7 @@
 <!-- <div id="header" align="center">
   <img src="https://github.com/Siddikulus/Siddikulus/blob/main/Rinnegan.gif" alt="👋 Hi there! I'm Siddharth Mathur" title="👋 Hi there! I'm Siddharth Mathur" width ="600" height="180" />
 </div> -->
-<div id="header" align="center">
-  <a href = "https://leetcode.com/u/rlxcnz/">
-    <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/50_Days.gif" alt="50 Days Badge 2023" title="Leetcode 50 Days Badge 2023" width = "100" height = "100"/>
-  </a>
-    <a href = "https://leetcode.com/u/rlxcnz/">
-  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/50_Days_2024.gif" alt="50 Days Badge 2024" title="Leetcode 50 Days Badge 2024" width = "100" height = "100"/>
-  </a>
-   <a href = "https://leetcode.com/u/rlxcnz/">
-  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/100_days.gif" alt="100 Days Badge 2024" title="Leetcode 100 Days Badge 2024" width = "100" height = "100"/>
-  </a>
-  <a href = "https://leetcode.com/u/rlxcnz/">
-  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/Jan_DC.gif" alt="January 24 Daily Challenge" title="Leetcode January Badge" width = "100" height = "100"/>
-  </a>
-  <a href = "https://leetcode.com/u/rlxcnz/">
-  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/Feb_DC.gif" alt="February 24 Daily Challenge" title="Leetcode February Badge" width = "100" height = "100"/>
-  </a>
-  <a href = "https://leetcode.com/u/rlxcnz/">
-  <img src="https://github.com/dontmesswithmee/Rahul-Chauhan/blob/main/Mar_DC.gif" alt="March 24 Daily Challenge" title="Leetcode March Badge" width = "100" height = "100"/>
-  </a>
-</div>
+
 
 <br>
 
